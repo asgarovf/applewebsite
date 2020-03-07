@@ -1,0 +1,95 @@
+p {
+		color:#bfbfbf;
+		font-family: Arial;
+		font-size: 15px;
+	}
+
+
+
+
+
+@media(min-width: 0px){
+	.row_header{
+		margin-top: 0px;
+		background-color: black;
+	}
+	.image{
+		max-width: 100%;
+	}
+	.heading_iphone11{
+		color:white;
+		margin-top: 2%;
+		font-family: Arial;
+		font-size: 40px;
+		max-width: 100%
+	}
+	.heading_top2{
+		color:white;
+		font-family: Arial;
+		font-size: 20px;
+		max-width: 100%
+	}
+	.heading_info{
+		color:#3399ff;
+		font-family: Arial;
+		font-size: 15px;
+		max-width: 100%;
+	}
+
+}
+
+@media(min-width: 780px){
+	.row_header{
+		margin-top: 0px;
+		background-color: black;
+	}
+	.image{
+		max-width: 100%;
+	}
+	.heading_iphone11{
+		color:white;
+		margin-top: 2%;
+		font-family: Arial;
+		font-size: 40px;
+		max-width: 100%
+	}
+	.heading_top2{
+		color:white;
+		font-family: Arial;
+		font-size: 20px;
+	}
+	.heading_info{
+		color:#3399ff;
+		font-family: Arial;
+		font-size: 15px;
+		max-width: 100%;
+	}
+}
+
+@media(min-width: 960px){
+	.row_header{
+		margin-top: 0px;
+		background-color: black;
+	}
+	.heading_iphone11{
+		color:white;
+		margin-top: 2%;
+		font-family: Arial;
+		font-size: 60px;
+		max-width: 100%
+	}
+	.heading_top2{
+		color:white;
+		font-family: Arial;
+		font-size:30px;
+	}
+	.heading_info{
+		color: #3399ff;
+		font-family: Arial;
+		font-size: 19px;
+		max-width: 100%;
+	
+	}
+}
+
+}
