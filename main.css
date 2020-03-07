@@ -4,9 +4,16 @@ p {
 		font-size: 15px;
 	}
 
+details > summary::-webkit-details-marker {
+  display: none;
+}
 
-
-
+.background{
+	background-color:black;
+}
+.background_white{
+	background-color:white;
+}
 
 @media(min-width: 0px){
 	.row_header{
@@ -19,23 +26,31 @@ p {
 	.heading_iphone11{
 		color:white;
 		margin-top: 2%;
-		font-family: Arial;
+		font-family:Brawler;
 		font-size: 40px;
 		max-width: 100%
 	}
 	.heading_top2{
 		color:white;
-		font-family: Arial;
-		font-size: 20px;
+		font-family: Brawler;
+		font-size: 15px;
 		max-width: 100%
 	}
 	.heading_info{
 		color:#3399ff;
-		font-family: Arial;
-		font-size: 15px;
+		font-family: Brawler;
+		font-size: 14px;
 		max-width: 100%;
 	}
-
+	.navbar{
+		display: none;
+	}
+	.navbar2{
+		display: inherit;
+		background-color: black
+	}
+	
+	
 }
 
 @media(min-width: 780px){
@@ -49,21 +64,30 @@ p {
 	.heading_iphone11{
 		color:white;
 		margin-top: 2%;
-		font-family: Arial;
+		font-family: Brawler;
 		font-size: 40px;
 		max-width: 100%
 	}
 	.heading_top2{
 		color:white;
-		font-family: Arial;
+		font-family: Brawler;
 		font-size: 20px;
 	}
 	.heading_info{
 		color:#3399ff;
-		font-family: Arial;
-		font-size: 15px;
+		font-family:Brawler;
+		font-size: 14px;
 		max-width: 100%;
 	}
+	.navbar{
+		display: inherit;
+	}
+	.navbar2{
+		display: none;
+	}
+
+	
+	
 }
 
 @media(min-width: 960px){
@@ -74,22 +98,26 @@ p {
 	.heading_iphone11{
 		color:white;
 		margin-top: 2%;
-		font-family: Arial;
+		font-family:Brawler;
 		font-size: 60px;
 		max-width: 100%
 	}
 	.heading_top2{
 		color:white;
-		font-family: Arial;
-		font-size:30px;
+		font-family: Brawler;
+		font-size:25px;
 	}
 	.heading_info{
 		color: #3399ff;
-		font-family: Arial;
-		font-size: 19px;
+		font-family: Brawler;
+		font-size: 15px;
 		max-width: 100%;
 	
 	}
-}
-
+	.navbar{
+		display: inherit;
+	}
+	.navbar2{
+		display: none;
+	}
 }
