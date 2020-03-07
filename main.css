@@ -41,6 +41,7 @@ details > summary::-webkit-details-marker {
 		font-family: Chivo;
 		font-size: 14px;
 		max-width: 100%;
+		
 	}
 	.navbar{
 		display: none;
@@ -84,6 +85,7 @@ details > summary::-webkit-details-marker {
 		color:white;
 		font-family: Chivo;
 		font-size: 20px;
+		max-width: 100%;
 	}
 	.heading_info{
 		color:#3399ff;
@@ -108,6 +110,7 @@ details > summary::-webkit-details-marker {
 		color:black;
 		font-family: Chivo;
 		font-size:20px;
+		max-width: 100%;
 	}
 
 	
@@ -130,6 +133,7 @@ details > summary::-webkit-details-marker {
 		color:white;
 		font-family: Chivo;
 		font-size:25px;
+		max-width: 100%;
 	}
 	.heading_info{
 		color: #3399ff;
@@ -155,5 +159,6 @@ details > summary::-webkit-details-marker {
 		color:black;
 		font-family: Chivo;
 		font-size:25px;
+		max-width: 100%;
 	}
 }
