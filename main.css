@@ -1,6 +1,6 @@
 p {
 		color:#bfbfbf;
-		font-family: Arial;
+		font-family: Chivo;
 		font-size: 15px;
 	}
 
@@ -26,19 +26,19 @@ details > summary::-webkit-details-marker {
 	.heading_iphone11{
 		color:white;
 		margin-top: 2%;
-		font-family:Brawler;
+		font-family:Chivo;
 		font-size: 40px;
 		max-width: 100%
 	}
 	.heading_top2{
 		color:white;
-		font-family: Brawler;
+		font-family: Chivo;
 		font-size: 15px;
 		max-width: 100%
 	}
 	.heading_info{
 		color:#3399ff;
-		font-family: Brawler;
+		font-family: Chivo;
 		font-size: 14px;
 		max-width: 100%;
 	}
@@ -48,6 +48,18 @@ details > summary::-webkit-details-marker {
 	.navbar2{
 		display: inherit;
 		background-color: black
+	}
+	.heading_iphone11bottom{
+		color:black;
+		margin-top: 2%;
+		font-family:Chivo;
+		font-size: 40px;
+		max-width: 100%
+	}
+	.heading_top2bottom{
+		color:black;
+		font-family: Chivo;
+		font-size:15px;
 	}
 	
 	
@@ -64,18 +76,18 @@ details > summary::-webkit-details-marker {
 	.heading_iphone11{
 		color:white;
 		margin-top: 2%;
-		font-family: Brawler;
+		font-family: Chivo;
 		font-size: 40px;
 		max-width: 100%
 	}
 	.heading_top2{
 		color:white;
-		font-family: Brawler;
+		font-family: Chivo;
 		font-size: 20px;
 	}
 	.heading_info{
 		color:#3399ff;
-		font-family:Brawler;
+		font-family:Chivo;
 		font-size: 14px;
 		max-width: 100%;
 	}
@@ -84,6 +96,18 @@ details > summary::-webkit-details-marker {
 	}
 	.navbar2{
 		display: none;
+	}
+	.heading_iphone11bottom{
+		color:black;
+		margin-top: 2%;
+		font-family:Chivo;
+		font-size: 40px;
+		max-width: 100%
+	}
+	.heading_top2bottom{
+		color:black;
+		font-family: Chivo;
+		font-size:20px;
 	}
 
 	
@@ -98,18 +122,18 @@ details > summary::-webkit-details-marker {
 	.heading_iphone11{
 		color:white;
 		margin-top: 2%;
-		font-family:Brawler;
+		font-family:Chivo;
 		font-size: 60px;
 		max-width: 100%
 	}
 	.heading_top2{
 		color:white;
-		font-family: Brawler;
+		font-family: Chivo;
 		font-size:25px;
 	}
 	.heading_info{
 		color: #3399ff;
-		font-family: Brawler;
+		font-family:Chivo;
 		font-size: 15px;
 		max-width: 100%;
 	
@@ -119,5 +143,17 @@ details > summary::-webkit-details-marker {
 	}
 	.navbar2{
 		display: none;
+	}
+	.heading_iphone11bottom{
+		color:black;
+		margin-top: 2%;
+		font-family:Chivo;
+		font-size: 60px;
+		max-width: 100%
+	}
+	.heading_top2bottom{
+		color:black;
+		font-family: Chivo;
+		font-size:25px;
 	}
 }
